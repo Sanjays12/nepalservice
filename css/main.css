@@ -49,7 +49,7 @@ h1,h2,h3,h4,h5,h6{font-weight: 700;/* font-family: 'Courgette', cursive; */}
 
 /* Menu */
 .logo-menu{padding:15px 0px;background-color: #fff;}
-.logo-menu .logo img{max-width: 100px;}
+.logo-menu .logo img{max-width: 99px;}
 .primarymenu{padding-top: 18px;float: right;}
 #mainmenu,#mainmenu ul,#mainmenu ul li,#mainmenu ul li a,#mainmenu #menu-button{margin:0;padding:0;border:0;list-style:none;line-height:1;display:block;position:relative;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
 #mainmenu:after,#mainmenu > ul:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0;}
